@@ -46,6 +46,7 @@ Here is a curated list of LATAM tech communities, organized by country > platfor
 *   [The Montevideo Python Meetup Group](https://www.meetup.com/py-mvd/)
 *   [The Montevideo Javascript Meetup Group](https://www.meetup.com/montevideojs/)
 *   [OWASP Uruguay Chapter](https://www.meetup.com/es/OWASP-Uruguay-Chapter/)
+*   [Laravel UY](https://www.meetup.com/Laravel-UY/)
 #### LinkedIn
 *   [Uruguay IT - by 1950Labs](https://www.linkedin.com/groups/149746/)
 #### Others
