@@ -14,11 +14,12 @@ Here is a curated list of LATAM tech communities, organized by country > platfor
 ## 🇦🇷 Argentina
 
 #### Slack
-*   [Meetup.js](https://slack.meetupjs.com.ar/)
+*   [Meetup.js](https://meetupjs.slack.com/join/shared_invite/zt-gk7ctvrn-sttnFX4zia_bM7C59odUGQ)
 *   [freeCodeCampBA](https://freecodecampba.org/chat/)
 *   [SysArmy](https://sysarmy.com)
 #### Discord
 *   [Frontend Café](https://frontend.cafe)
+*   [Programadores y Estudiantes](https://discord.com/invite/programacion)
 #### Others
 *   [Pro-Gramadores](https://pro-gramadores.org/)
 
