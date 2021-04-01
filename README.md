@@ -20,8 +20,10 @@ Here is a curated list of LATAM tech communities, organized by country > platfor
 #### Discord
 *   [Frontend Café](https://frontend.cafe)
 *   [Programadores y Estudiantes](https://discord.com/invite/programacion)
+*   [Refactor Devs](https://discord.gg/jzY3jRxZxb)
 #### Others
 *   [Pro-Gramadores](https://pro-gramadores.org/)
+*   [WordPress Argentina](https://www.facebook.com/groups/wpargentina)
 
 
 ## 🇨🇱 Chile
@@ -33,7 +35,7 @@ Here is a curated list of LATAM tech communities, organized by country > platfor
 #### Meetup
 *   [QA-Testing-Chile](https://www.meetup.com/es/QA-Testing-Chile)
 #### LinkedIn
-*   [Mozzilla Chile](https://www.linkedin.com/company/mozilla-chile/)
+*   [Mozilla Chile](https://www.linkedin.com/company/mozilla-chile/)
 
 
 ## 🇺🇾 Uruguay
