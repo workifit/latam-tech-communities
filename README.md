@@ -23,6 +23,7 @@ Here is a curated list of LATAM tech communities, organized by country > platfor
 *   [Refactor Devs](https://discord.gg/jzY3jRxZxb)
 #### Others
 *   [Pro-Gramadores](https://pro-gramadores.org/)
+*   [CoDeAr](https://codear.org/)
 *   [WordPress Argentina](https://www.facebook.com/groups/wpargentina)
 
 
