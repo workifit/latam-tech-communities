@@ -7,8 +7,15 @@ Here is a curated list of LATAM tech communities, organized by country > platfor
 
 ## Index:
 + [🇦🇷 Argentina](#-argentina)
++ [🇧🇴 Bolivia](#-bolivia)
 + [🇨🇱 Chile](#-chile)
++ [🇨🇴 Colombia](#-colombia)
++ [🇪🇨 Ecuador](#-ecuador)
++ [🇲🇽 México](#-méxico)
++ [🇵🇾 Paraguay](#-paraguay)
++ [🇵🇪 Perú](#-perú)
 + [🇺🇾 Uruguay](#-uruguay)
++ [🇻🇪 Venezuela](#-venezuela)
 
 
 ## 🇦🇷 Argentina
@@ -26,6 +33,7 @@ Here is a curated list of LATAM tech communities, organized by country > platfor
 *   [CoDeAr](https://codear.org/)
 *   [WordPress Argentina](https://www.facebook.com/groups/wpargentina)
 
+## 🇧🇴 Bolivia
 
 ## 🇨🇱 Chile
 #### Slack
@@ -38,6 +46,11 @@ Here is a curated list of LATAM tech communities, organized by country > platfor
 #### LinkedIn
 *   [Mozilla Chile](https://www.linkedin.com/company/mozilla-chile/)
 
+## 🇨🇴 Colombia
+## 🇪🇨 Ecuador
+## 🇲🇽 México
+## 🇵🇾 Paraguay
+## 🇵🇪 Perú
 
 ## 🇺🇾 Uruguay
 #### Slack
@@ -59,4 +72,7 @@ Here is a curated list of LATAM tech communities, organized by country > platfor
 *   [Testim](https://www.testim.io/community/)
 *   [OWASP Uruguay](https://owasp.org/uruguay)
 
+## 🇻🇪 Venezuela
+
+---
 Supported by [Workifit](https://www.workifit.com)❤️
