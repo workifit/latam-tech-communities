@@ -7,6 +7,7 @@ Here is a curated list of LATAM tech communities, organized by country > platfor
 
 ## Index:
 + [🇦🇷 Argentina](#-argentina)
++ [🇧🇷 Brasil](#-brasil)
 + [🇧🇴 Bolivia](#-bolivia)
 + [🇨🇱 Chile](#-chile)
 + [🇨🇴 Colombia](#-colombia)
@@ -24,14 +25,19 @@ Here is a curated list of LATAM tech communities, organized by country > platfor
 *   [Meetup.js](https://meetupjs.slack.com/join/shared_invite/zt-gk7ctvrn-sttnFX4zia_bM7C59odUGQ)
 *   [freeCodeCampBA](https://freecodecampba.org/chat/)
 *   [SysArmy](https://sysarmy.com)
+*	[Android Devs BsAs](https://slack-androiddevs.herokuapp.com/)
 #### Discord
 *   [Frontend Café](https://frontend.cafe)
 *   [Programadores y Estudiantes](https://discord.com/invite/programacion)
 *   [Refactor Devs](https://discord.gg/jzY3jRxZxb)
+*	[DeployAR](https://discord.gg/wCj64fb)
+* 	[Refactor devs_](https://discord.com/invite/FvHvsh8)
 #### Others
 *   [Pro-Gramadores](https://pro-gramadores.org/)
 *   [CoDeAr](https://codear.org/)
 *   [WordPress Argentina](https://www.facebook.com/groups/wpargentina)
+
+## 🇧🇷 Brasil
 
 ## 🇧🇴 Bolivia
 
