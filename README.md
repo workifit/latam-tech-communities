@@ -31,7 +31,6 @@ Here is a curated list of LATAM tech communities, organized by country > platfor
 *   [Programadores y Estudiantes](https://discord.com/invite/programacion)
 *   [Refactor Devs](https://discord.gg/jzY3jRxZxb)
 *	[DeployAR](https://discord.gg/wCj64fb)
-* 	[Refactor devs_](https://discord.com/invite/FvHvsh8)
 #### Others
 *   [Pro-Gramadores](https://pro-gramadores.org/)
 *   [CoDeAr](https://codear.org/)
