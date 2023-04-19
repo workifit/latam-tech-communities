@@ -117,6 +117,12 @@ Here is a curated list of LATAM tech communities, organized by country > platfor
 
 ## 🇲🇽 México
 
+#### Slack
+- [PHP México](https://chat.phpmexico.mx/)
+
+#### Meetup
+- [PHP México](https://www.meetup.com/es/php-the-right-way/)
+
 ## 🇵🇾 Paraguay
 
 ## 🇵🇪 Perú
