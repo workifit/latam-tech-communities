@@ -125,6 +125,20 @@ Here is a curated list of LATAM tech communities, organized by country > platfor
 
 ## 🇵🇾 Paraguay
 
+#### Telegram
+- [JavaScript Py](https://t.me/javascriptpy)
+- [Vue.js Paraguay](https://t.me/vuejsparaguay)
+- [PythonPY](https://t.me/pythonparaguay)
+- [ReactJS/ReactNative-PY](https://t.me/ReactPY)
+- [PHP Paraguay](https://t.me/phpparaguay)
+- [Golang Py](https://t.me/golangpy)
+- [Rust Py](https://t.me/golangpy)
+- [Laravel PY](https://t.me/LaravelPY)
+- [Node.JS PY](https://t.me/nodejspy)
+- [Linux Paraguay](https://t.me/LinuxPyo)
+- [JUG PY (Java)](https://t.me/jugpy)
+- [OSM Paraguay](https://t.me/osm_py)
+
 ## 🇵🇪 Perú
 
 ## 🇺🇾 Uruguay
