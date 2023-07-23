@@ -138,6 +138,19 @@ Here is a curated list of LATAM tech communities, organized by country > platfor
 - [Linux Paraguay](https://t.me/LinuxPyo)
 - [JUG PY (Java)](https://t.me/jugpy)
 - [OSM Paraguay](https://t.me/osm_py)
+- [Android Devs Paraguay](https://t.me/androidpy)
+- [ArduinoPy](https://t.me/arduinopy)
+- [C#/Net Paraguay](https://t.me/CSharpNetPy)
+- [Dart/Flutter-PY](https://t.me/DartPY)
+- [Data Science PY](https://t.me/Data_Science_PY)
+- [Dev&Ops Py](https://t.me/devopsPY)
+- [Docker Paraguay](https://t.me/dockerparaguay)
+- [FrontEnd Py](https://t.me/frontendparaguay)
+- [Genexus Paraguay](https://t.me/genexuspy)
+- [GraphQL Paraguay](http://t.me/graphqlparaguay)
+- [PowerBI & Analytics](https://t.me/pbi_analytics_py)
+- [Testing & QA](https://t.me/testing_py)
+- [Xamarin](https://t.me/XamarinPy)
 
 ## 🇵🇪 Perú
 
